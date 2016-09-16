@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="os161" targetName="os161" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="357e0d88-c452-4cf1-a93e-4e48d8e46c43" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/os161.iml" afterPath="$PROJECT_DIR$/.idea/os161.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kern/syscall/sbrk_syscalls.c" afterPath="$PROJECT_DIR$/kern/syscall/sbrk_syscalls.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kern/vfs/pagetable.c" afterPath="$PROJECT_DIR$/kern/vfs/pagetable.c" />
+    </list>
+    <ignored path="os161.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="os161" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="addrspace.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/vm/addrspace.c">
+<<<<<<< HEAD
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="239" column="0" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="243" column="21" selection-start-line="243" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stacktest.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userland/testbin/stacktest/stacktest.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="60" column="30" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smartvm.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/smartvm.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+              <caret line="151" column="12" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
+=======
+              <caret line="355" column="5" selection-start-line="355" selection-start-column="5" selection-end-line="355" selection-end-column="5" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="ram.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/ram.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="131" column="40" selection-start-line="131" selection-start-column="40" selection-end-line="131" selection-end-column="40" />
+=======
+      <file leaf-file-name="kmalloc.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/vm/kmalloc.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="993" column="62" selection-start-line="993" selection-start-column="62" selection-end-line="993" selection-end-column="62" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ram.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/ram.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+              <caret line="212" column="16" selection-start-line="212" selection-start-column="16" selection-end-line="212" selection-end-column="16" />
+=======
+              <caret line="132" column="63" selection-start-line="132" selection-start-column="63" selection-end-line="132" selection-end-column="63" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sbrktest.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userland/testbin/sbrktest/sbrktest.c">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state vertical-scroll-proportion="45.35484">
+              <caret line="191" column="42" selection-start-line="191" selection-start-column="42" selection-end-line="191" selection-end-column="42" />
+=======
+            <state vertical-scroll-proportion="0.0">
+              <caret line="228" column="1" selection-start-line="228" selection-start-column="1" selection-end-line="228" selection-end-column="1" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="trap.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/arch/mips/locore/trap.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="295" column="44" selection-start-line="295" selection-start-column="38" selection-end-line="295" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sbrk_syscalls.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kern/syscall/sbrk_syscalls.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6">
+              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+=======
+      <file leaf-file-name="syscall.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kern/arch/mips/syscall/syscall.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37619048">
+              <caret line="174" column="37" selection-start-line="174" selection-start-column="37" selection-end-line="174" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syscall.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/include/syscall.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="78" column="45" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proc.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/proc/proc.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="211" column="14" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="14" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagetable.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/vfs/pagetable.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kmalloc.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/vm/kmalloc.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1257" column="0" selection-start-line="1257" selection-start-column="0" selection-end-line="1257" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagetable.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kern/vfs/pagetable.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+=======
+              <caret line="129" column="29" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/kern/arch/mips/vm/smartvm.c" />
+        <option value="$PROJECT_DIR$/kern/arch/mips/vm/ram.c" />
+        <option value="$PROJECT_DIR$/kern/arch/mips/locore/trap.c" />
+        <option value="$PROJECT_DIR$/kern/syscall/exit_syscalls.c" />
+        <option value="$PROJECT_DIR$/kern/syscall/execv_syscalls.c" />
+        <option value="$PROJECT_DIR$/kern/include/pagetable.h" />
+        <option value="$PROJECT_DIR$/kern/include/addrspace.h" />
+        <option value="$PROJECT_DIR$/kern/syscall/loadelf.c" />
+        <option value="$PROJECT_DIR$/userland/testbin/sbrktest/sbrktest.c" />
+        <option value="$PROJECT_DIR$/kern/vm/addrspace.c" />
+        <option value="$PROJECT_DIR$/kern/proc/proc.c" />
+        <option value="$PROJECT_DIR$/kern/vfs/pagetable.c" />
+        <option value="$PROJECT_DIR$/kern/syscall/sbrk_syscalls.c" />
+=======
+        <option value="$PROJECT_DIR$/kern/syscall/sbrk_syscalls.c" />
+        <option value="$PROJECT_DIR$/kern/arch/mips/vm/ram.c" />
+        <option value="$PROJECT_DIR$/kern/arch/mips/locore/trap.c" />
+        <option value="$PROJECT_DIR$/kern/syscall/exit_syscalls.c" />
+        <option value="$PROJECT_DIR$/userland/testbin/sbrktest/sbrktest.c" />
+        <option value="$PROJECT_DIR$/kern/vm/addrspace.c" />
+        <option value="$PROJECT_DIR$/kern/proc/proc.c" />
+        <option value="$PROJECT_DIR$/kern/include/pagetable.h" />
+        <option value="$PROJECT_DIR$/kern/include/addrspace.h" />
+        <option value="$PROJECT_DIR$/kern/syscall/loadelf.c" />
+        <option value="$PROJECT_DIR$/kern/vfs/pagetable.c" />
+        <option value="$PROJECT_DIR$/kern/arch/mips/vm/smartvm.c" />
+        <option value="$PROJECT_DIR$/kern/syscall/execv_syscalls.c" />
+        <option value="$PROJECT_DIR$/kern/include/syscall.h" />
+        <option value="$PROJECT_DIR$/kern/arch/mips/syscall/syscall.c" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+<<<<<<< HEAD
+    <property name="SearchEverywhereHistoryKey" value="test4&#9;null&#9;null&#10;as_des&#9;null&#9;null&#10;free_k&#9;null&#9;null&#10;proc_des&#9;null&#9;null&#10;as_prepa&#9;null&#9;null&#10;pro&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/proc/proc.c&#10;ram_re&#9;null&#9;null&#10;proc.h&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/include/proc.h&#10;sbrk_&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/syscall/sbrk_syscalls.c&#10;sbr&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/userland/testbin/sbrktest/sbrktest.c&#10;load&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/syscall/loadelf.c&#10;pageta&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/vfs/pagetable.c&#10;ram_rem&#9;null&#9;null&#10;pagetab&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/vfs/pagetable.c&#10;exe&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/syscall/execv_syscalls.c&#10;tr&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/arch/mips/locore/trap.c&#10;allocate_on&#9;null&#9;null&#10;vm_fa&#9;null&#9;null&#10;sys___s&#9;null&#9;null&#10;sbrk&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/.root/man/syscall/sbrk.html&#10;sbrktest.&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/userland/testbin/sbrktest/sbrktest.c&#10;SIGSE&#9;null&#9;null&#10;addTo&#9;null&#9;null&#10;rlT&#9;null&#9;null&#10;as_pre&#9;null&#9;null&#10;addr&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/vm/addrspace.c&#10;paget&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/vfs/pagetable.c&#10;sys___exe&#9;null&#9;null&#10;v&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/.idea/vcs.xml&#10;quintmat.c&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/userland/testbin/quintmat/quintmat.c&#10;quintsort.&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/userland/testbin/quintsort/quintsort.c" />
+=======
+    <property name="SearchEverywhereHistoryKey" value="kmallo&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/vm/kmalloc.c&#10;kmalloc&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/vm/kmalloc.c&#10;exec&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/syscall/execv_syscalls.c&#10;ram&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/arch/mips/vm/ram.c&#10;vm_fa&#9;null&#9;null&#10;ram_s&#9;null&#9;null&#10;load&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/syscall/loadelf.c&#10;pageta&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/vfs/pagetable.c&#10;ram_rem&#9;null&#9;null&#10;pagetab&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/vfs/pagetable.c&#10;proc_des&#9;null&#9;null&#10;as_des&#9;null&#9;null&#10;exe&#9;FILE&#9;file:///home/abhinav/src161os/os161/kern/syscall/execv_syscalls.c&#10;tr&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/arch/mips/locore/trap.c&#10;allocate_on&#9;null&#9;null&#10;sys___s&#9;null&#9;null&#10;sbrk&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/.root/man/syscall/sbrk.html&#10;sbrktest.&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/userland/testbin/sbrktest/sbrktest.c&#10;SIGSE&#9;null&#9;null&#10;addTo&#9;null&#9;null&#10;rlT&#9;null&#9;null&#10;as_pre&#9;null&#9;null&#10;addr&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/vm/addrspace.c&#10;paget&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/kern/vfs/pagetable.c&#10;sys___exe&#9;null&#9;null&#10;v&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/.idea/vcs.xml&#10;quintmat.c&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/userland/testbin/quintmat/quintmat.c&#10;quintsort.&#9;FILE&#9;file:///home/archana/Documents/OperatingSystems/OS161SRC/os161/userland/testbin/quintsort/quintsort.c" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="os161" TARGET_NAME="os161" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="os161" TARGET_NAME="os161" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="os161" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="os161" TARGET_NAME="os161" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="os161" RUN_TARGET_NAME="os161">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.os161" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="357e0d88-c452-4cf1-a93e-4e48d8e46c43" name="Default" comment="" />
+      <created>1461252469369</created>
+      <option name="number" value="Default" />
+      <updated>1461252469369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32766616" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/include/addrspace.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/vm/addrspace.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="243" column="21" selection-start-line="243" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/vm/addrspace.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+=======
+    <entry file="file://$PROJECT_DIR$/userland/testbin/stacktest/stacktest.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/smartvm.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="151" column="13" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+=======
+          <caret line="355" column="5" selection-start-line="355" selection-start-column="5" selection-end-line="355" selection-end-column="5" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/syscall/loadelf.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/dumbvm.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/proc/proc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="213" column="8" selection-start-line="213" selection-start-column="8" selection-end-line="213" selection-end-column="8" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/vm/kmalloc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="993" column="62" selection-start-line="993" selection-start-column="62" selection-end-line="993" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/ram.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="132" column="63" selection-start-line="132" selection-start-column="63" selection-end-line="132" selection-end-column="63" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/syscall/execv_syscalls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+=======
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/vfs/pagetable.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="17" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/proc/proc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="211" column="14" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="14" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/include/pagetable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/vfs/pagetable.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="129" column="29" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userland/testbin/sbrktest/sbrktest.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/syscall/sbrk_syscalls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/smartvm.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="318" column="33" selection-start-line="318" selection-start-column="33" selection-end-line="318" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/vfs/pagetable.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/ram.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="153" column="76" selection-start-line="153" selection-start-column="76" selection-end-line="153" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/locore/trap.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="110" column="14" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/syscall/exit_syscalls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="232" column="29" selection-start-line="232" selection-start-column="29" selection-end-line="232" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userland/testbin/quintsort/quintsort.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userland/testbin/quintmat/quintmat.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/man/testbin/sbrktest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5994694">
+          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/include/kern/signal.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="15" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userland/testbin/crash/crash.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="249" column="61" selection-start-line="249" selection-start-column="61" selection-end-line="249" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userland/lib/hostcompat/hostcompat.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33168316">
+          <caret line="218" column="11" selection-start-line="218" selection-start-column="11" selection-end-line="218" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.root/man/syscall/sbrk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2944298">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/syscall/exit_syscalls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/syscall/execv_syscalls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/dumbvm.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.457143">
+          <caret line="384" column="1" selection-start-line="384" selection-start-column="1" selection-end-line="384" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/include/addrspace.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/syscall/loadelf.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="164" column="18" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
+=======
+    <entry file="file://$PROJECT_DIR$/userland/testbin/sbrktest/sbrktest.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34285715">
+          <caret line="760" column="30" selection-start-line="760" selection-start-column="30" selection-end-line="760" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/include/pagetable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/include/current.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56239873">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/include/addrspace.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/syscall/loadelf.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="168" column="15" selection-start-line="168" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/include/proc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/locore/trap.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="295" column="44" selection-start-line="295" selection-start-column="38" selection-end-line="295" selection-end-column="44" />
+=======
+          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/vfs/pagetable.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="151" column="12" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
+=======
+          <caret line="129" column="29" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/ram.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="131" column="40" selection-start-line="131" selection-start-column="40" selection-end-line="131" selection-end-column="40" />
+=======
+          <caret line="132" column="63" selection-start-line="132" selection-start-column="63" selection-end-line="132" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/proc/proc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="211" column="14" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="14" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/include/pagetable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+=======
+          <caret line="243" column="21" selection-start-line="243" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userland/testbin/stacktest/stacktest.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="212" column="16" selection-start-line="212" selection-start-column="16" selection-end-line="212" selection-end-column="16" />
+=======
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/vm/addrspace.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="239" column="0" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/include/limits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37619048">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/vm/copyinout.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5904762">
+          <caret line="265" column="62" selection-start-line="265" selection-start-column="62" selection-end-line="265" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/vm/kmalloc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="993" column="62" selection-start-line="993" selection-start-column="62" selection-end-line="993" selection-end-column="62" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/userland/testbin/sbrktest/sbrktest.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="45.35484">
+          <caret line="191" column="42" selection-start-line="191" selection-start-column="42" selection-end-line="191" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/vm/kmalloc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1257" column="0" selection-start-line="1257" selection-start-column="0" selection-end-line="1257" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/vm/smartvm.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="355" column="5" selection-start-line="355" selection-start-column="5" selection-end-line="355" selection-end-column="5" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/vfs/pagetable.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/syscall/execv_syscalls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="228" column="1" selection-start-line="228" selection-start-column="1" selection-end-line="228" selection-end-column="1" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/kern/syscall/sbrk_syscalls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6">
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/kern/include/syscall.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="45" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kern/arch/mips/syscall/syscall.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37619048">
+          <caret line="174" column="37" selection-start-line="174" selection-start-column="37" selection-end-line="174" selection-end-column="37" />
+>>>>>>> 1575897ddea0a8fa1add8a36bbb1fa2d56f20ff1
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
